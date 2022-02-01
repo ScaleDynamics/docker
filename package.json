@@ -1,0 +1,16 @@
+{
+  "name": "my-docker",
+  "version": "1.0.0",
+  "author": "ScaleDynamics",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "warp": "^4.0.19"
+  }
+}
