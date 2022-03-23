@@ -8,7 +8,7 @@
     "start": "node ."
   },
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "warp": "^4.0.19"
